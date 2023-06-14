@@ -29,5 +29,3 @@ OTHER SOURCES
 
 -   “Find the maximum and minimum value in the range range in VBA”, Unknown, 19 January 2023 (’https://officetuts.net/excel/vba/find-the-maximum-and-minimum-value-in-the-range-in-vba/), accessed 12 June 2023
 - "VBA Format Date", Automate Excel.com, Unknown, Unknown, (https://www.automateexcel.com/vba/format-date/), accessed 11 June 2023
-
-VBA Format Date
