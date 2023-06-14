@@ -17,6 +17,8 @@ CODE SOURCES USED IN THIS ASSIGNMENT
 Sub TkrNm()
 - “Excel VBA Get Unique Values from Range”, The Excel Cave (https://www.youtube.com/watch?v=q9LHfD-KnF0), accessed 11 June 2023
 
+Sub StartCalcs()
+- part code from Tutor, Limei Hou, 13 June 2023. 
 
 
 OTHER SOURCES
@@ -26,4 +28,6 @@ OTHER SOURCES
 - “Excel VBA Loop Thru Worksheets and Perform Action, The Excel cave”, The Excel Cave (https://www.youtube.com/watch?v=98udcFS20Zs), accessed 11 June 2023
 
 -   “Find the maximum and minimum value in the range range in VBA”, Unknown, 19 January 2023 (’https://officetuts.net/excel/vba/find-the-maximum-and-minimum-value-in-the-range-in-vba/), accessed 12 June 2023
+- "VBA Format Date", Automate Excel.com, Unknown, Unknown, (https://www.automateexcel.com/vba/format-date/), accessed 11 June 2023
 
+VBA Format Date
